@@ -1,6 +1,6 @@
-import React from 'react';
 import QRCodeGenerator from './components/QRCodeGenerator';
 import Header from './components/Header';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -9,6 +9,8 @@ function App() {
       <main className="container mx-auto px-4 py-8">
         <QRCodeGenerator />
       </main>
+
+      <Footer />
     </div>
   );
 }
