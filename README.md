@@ -1,0 +1,1 @@
+![Verbals QR Code Screenshot](https://qrcode.verbals.io/screenshot.png)
